@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{1D4A1C23-1847-596C-4F8C-99AA656020EB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BladeSound.cs">
+    <Files>
+      <File FileName="Assets/Timer.cs" Line="51" Column="84" />
+      <File FileName="Assets/Move.cs" Line="87" Column="37" />
+      <File FileName="Assets/Rotate.cs" Line="17" Column="47" />
+      <File FileName="Assets/CameraRotation.cs" Line="13" Column="14" />
+      <File FileName="Assets/KeepRotation.cs" />
+      <File FileName="Assets/EnemyDamage.cs" Line="1" Column="19" />
+      <File FileName="Assets/HealthManagement.cs" Line="4" Column="30" />
+      <File FileName="Assets/LavaBehaviour.cs" Line="9" Column="16" />
+      <File FileName="Assets/LavaMovement.cs" Line="39" Column="78" />
+      <File FileName="Assets/HealthBar.cs" Line="13" Column="59" />
+      <File FileName="Assets/SpinningSaw.cs" Line="17" Column="121" />
+      <File FileName="Assets/TurretBehaviour.cs" Line="8" Column="11" />
+      <File FileName="Assets/StarDuplication.cs" Line="16" Column="120" />
+      <File FileName="Assets/RandomDirection.cs" Line="14" Column="54" />
+      <File FileName="Assets/CollidingSaws.cs" Line="10" Column="10" />
+      <File FileName="Assets/Fireworks.cs" Line="29" Column="114" />
+      <File FileName="Assets/BladeSound.cs" Line="12" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ninja Training" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="BladeSound.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Ninja Training" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b9b6bce6-3cab-44c9-b19e-6b20a551a98a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
